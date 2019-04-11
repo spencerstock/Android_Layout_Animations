@@ -1,3 +1,5 @@
+see https://github.com/spencerstock/Android_Sprint3_Challenge
+
 # Android_Layout_Animations
 
 This is another shorter project, for this one, you'll take an existing List-Detail app and add a activity transition animation with a shared element. This is best when it is an image.
